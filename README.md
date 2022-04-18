@@ -1,2 +1,3 @@
-# primate-homology
-DSC 3334 Final Project, Spring 2022
+# Functional Classification and Sequence Homology Across Primate Genomes
+DSC 3334 Final Project  
+*Fendt, Spring 2022*
