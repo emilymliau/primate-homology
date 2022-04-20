@@ -3,6 +3,7 @@
 DSC 3334 Final Project  
 *Fendt, Spring 2022*
 
+### Overview
 
 The divergence of human and chimpanzee ancestors dates back to at least 6.5-7.5 million years ago. As a result of their homology, humans and chimpanzees share a large number of conserved sequences. Although recent technologies have improved, it remains difficult to quantify the exact differences between human and chimpanzee genomes based on protein-coding sequences alone. Therefore, identifying the major structural and regulatory genetic alterations that have shaped the biological function of specific DNA sequences over time could provide insight into human and chimpanzee speciation.
 
